@@ -460,6 +460,17 @@ body {
 		color: white;
 	}
 
+#slide-7 {
+	background-color: #A58B50;
+	color: #e4e6e5;
+	padding-top: 90px;
+}
+
+#slide-7 i {
+		font-size: 80px;
+		color: white;
+	}
+
 
 #slide-5 {
 	background-color: #f39c12;
